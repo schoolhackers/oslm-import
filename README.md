@@ -1,4 +1,4 @@
 oslm-import
 ===========
 
-Import-Skripte fuer **[OSLM](github.com/schoolhackers/oslm):**
+Import-Skripte fuer **[OSLM](https://github.com/schoolhackers/oslm):**
